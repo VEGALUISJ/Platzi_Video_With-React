@@ -1,0 +1,30 @@
+.main {
+    height: 200px;
+  }
+  
+  .main__title {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+  }
+
+  .input {
+    margin-left: 13%;
+    border: 2px solid white;
+    border-radius: 25px;
+    color: white;
+    font-family: "Muli", sans-serif;
+    font-size: 16px;
+    height: 30px;
+    padding: 8px 20px;
+    width: 70%;
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  input:focus, textarea:focus, select:focus {
+    outline: none;
+  }
+  
+  ::placeholder {
+    color: white;
+  }
