@@ -12,8 +12,8 @@ const CarouselItem = () => (
     />
     <div className='carousel-item__details'>
       <div>
-        <img src='' className='play__button' alt='play' />
-        <img src='' className='mas__button' alt='mas' />
+        <img src='https://img.icons8.com/flat_round/64/000000/play--v1.png' className='play__button' alt='play' />
+        <img src='https://img.icons8.com/flat_round/64/000000/plus.png' className='mas__button' alt='mas' />
       </div>
       <p className='carousel-item__details--title'>Titulo descriptivo</p>
       <p className='carousel-item__details--subtitle'>2019 16+ 114 minutos</p>

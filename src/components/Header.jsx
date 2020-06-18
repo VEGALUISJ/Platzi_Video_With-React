@@ -3,7 +3,7 @@ import '../assets/styles/components/Header.scss';
 
 const Header = () => (
   <header className='header'>
-    <a href='./main.html'>
+    <a href='/'>
       <img
         className='header__img'
         src='https://raw.githubusercontent.com/platzi/PlatziVideo/feature/react/src/assets/static/logo-platzi-video-BW2.png'
